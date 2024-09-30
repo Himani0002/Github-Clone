@@ -1,4 +1,3 @@
-Here’s the updated cute README file for your GitHub Clone project with an online link placeholder for screenshots:
 
 ---
 
@@ -77,11 +76,6 @@ Now, visit `http://localhost:3000` to view the app! 🚀
 - **Adorable icons** for stars, forks, and issues.
 - **Fun hover animations** on repository cards.
 
-## 📸 Screenshots
-
-| Home Page      | User Profile  |
-| -------------- | ------------- |
-| ![Home](https://your-screenshot-link.com/github-clone-home.png) | ![Profile](https://your-screenshot-link.com/github-clone-profile.png) |
 
 ## 🐾 Future Enhancements
 
@@ -103,9 +97,8 @@ Want to contribute? Awesome! Here's how:
 
 👩‍💻 **Himani Gohil**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📧 himani.gohil@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/himani-gohil/)
+- 📧 himanigohil0002@gmail.com
 
 ## 🌈 Acknowledgements
 
