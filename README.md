@@ -1,5 +1,4 @@
 
----
 
 # 🐱✨ GitHub Clone – Full Stack Project ✨🐱
 
@@ -104,8 +103,4 @@ Want to contribute? Awesome! Here's how:
 
 Special thanks to **GitHub** for inspiring this project and **you** for checking it out! 😊
 
----
 
-Replace `https://your-screenshot-link.com/...` with the actual URLs of your screenshots when you're ready to upload them.
-
-Let me know if you'd like any more adjustments!
